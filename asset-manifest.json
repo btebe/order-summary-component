@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22385b5e.chunk.css",
+    "main.js": "/static/js/main.df20ec75.chunk.js",
+    "main.js.map": "/static/js/main.df20ec75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85deb082.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85deb082.js.map",
+    "static/js/2.3efcafd2.chunk.js": "/static/js/2.3efcafd2.chunk.js",
+    "static/js/2.3efcafd2.chunk.js.map": "/static/js/2.3efcafd2.chunk.js.map",
+    "static/js/3.19b7e00e.chunk.js": "/static/js/3.19b7e00e.chunk.js",
+    "static/js/3.19b7e00e.chunk.js.map": "/static/js/3.19b7e00e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.22385b5e.chunk.css.map": "/static/css/main.22385b5e.chunk.css.map",
+    "static/js/2.3efcafd2.chunk.js.LICENSE.txt": "/static/js/2.3efcafd2.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/static/media/illustration-hero.73032583.svg",
+    "static/media/index.css": "/static/media/pattern-background-mobile.c8d50fcb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85deb082.js",
+    "static/js/2.3efcafd2.chunk.js",
+    "static/css/main.22385b5e.chunk.css",
+    "static/js/main.df20ec75.chunk.js"
+  ]
+}
