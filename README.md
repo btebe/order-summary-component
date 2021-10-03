@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://github.com/btebe/order-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My open src](https://github.com/btebe/order-summary-component)
+- Live Site URL: [Live solution](https://btebe.github.io/order-summary-component/)
 
 ## My process
 
