@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.22385b5e.chunk.css",
-    "main.js": "/static/js/main.df20ec75.chunk.js",
-    "main.js.map": "/static/js/main.df20ec75.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.85deb082.js",
-    "runtime-main.js.map": "/static/js/runtime-main.85deb082.js.map",
-    "static/js/2.3efcafd2.chunk.js": "/static/js/2.3efcafd2.chunk.js",
-    "static/js/2.3efcafd2.chunk.js.map": "/static/js/2.3efcafd2.chunk.js.map",
-    "static/js/3.19b7e00e.chunk.js": "/static/js/3.19b7e00e.chunk.js",
-    "static/js/3.19b7e00e.chunk.js.map": "/static/js/3.19b7e00e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.22385b5e.chunk.css.map": "/static/css/main.22385b5e.chunk.css.map",
-    "static/js/2.3efcafd2.chunk.js.LICENSE.txt": "/static/js/2.3efcafd2.chunk.js.LICENSE.txt",
-    "static/media/icon-music.f20c7787.svg": "/static/media/icon-music.f20c7787.svg",
-    "static/media/illustration-hero.73032583.svg": "/static/media/illustration-hero.73032583.svg",
-    "static/media/index.css": "/static/media/pattern-background-mobile.c8d50fcb.svg"
+    "main.css": "/order-summary-component/static/css/main.accc3b58.chunk.css",
+    "main.js": "/order-summary-component/static/js/main.ce75cfec.chunk.js",
+    "main.js.map": "/order-summary-component/static/js/main.ce75cfec.chunk.js.map",
+    "runtime-main.js": "/order-summary-component/static/js/runtime-main.7a81d70c.js",
+    "runtime-main.js.map": "/order-summary-component/static/js/runtime-main.7a81d70c.js.map",
+    "static/js/2.3efcafd2.chunk.js": "/order-summary-component/static/js/2.3efcafd2.chunk.js",
+    "static/js/2.3efcafd2.chunk.js.map": "/order-summary-component/static/js/2.3efcafd2.chunk.js.map",
+    "index.html": "/order-summary-component/index.html",
+    "static/css/main.accc3b58.chunk.css.map": "/order-summary-component/static/css/main.accc3b58.chunk.css.map",
+    "static/js/2.3efcafd2.chunk.js.LICENSE.txt": "/order-summary-component/static/js/2.3efcafd2.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/order-summary-component/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/order-summary-component/static/media/illustration-hero.73032583.svg",
+    "static/media/index.css": "/order-summary-component/static/media/pattern-background-mobile.c8d50fcb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85deb082.js",
+    "static/js/runtime-main.7a81d70c.js",
     "static/js/2.3efcafd2.chunk.js",
-    "static/css/main.22385b5e.chunk.css",
-    "static/js/main.df20ec75.chunk.js"
+    "static/css/main.accc3b58.chunk.css",
+    "static/js/main.ce75cfec.chunk.js"
   ]
 }
